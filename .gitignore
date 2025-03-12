@@ -46,4 +46,7 @@ Thumbs.db
 *.session-journal
 
 # HAR files
-*.har 
+*.har
+
+# Specific files
+analyze_har.py 
